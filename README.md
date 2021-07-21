@@ -1,5 +1,5 @@
 # Retrieval-Based-Chatbot
-Development of a retrieval-based chatbot using the Natural Language Tool Kit (NLTL) and Tensorflow
+Development of a retrieval-based chatbot using the Natural Language Tool Kit (NLTL) and TensorFlow
 
 # Dataset
 * `intents.json`: Contains intents, question categories (or classes), and database of predefined responses
